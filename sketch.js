@@ -1,4 +1,4 @@
-/* Eddy Ahlqvist - 2018 and continued 2020 after 2 year break */
+/* Eddy Ahlqvist - 2018 */
 
 //  Global Variables
 let fire = false;
